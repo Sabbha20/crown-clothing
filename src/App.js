@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import Homepage from './homepage.components';
+import './App.css';
+
+import Homepage from './pages/homepage/homepage.components';
 
 class App extends Component {
 	render() {
